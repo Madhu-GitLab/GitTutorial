@@ -1,2 +1,3 @@
 this is a sample text file , text is ok  file updating 
 some code chnages updated 
+updating the code directly in git remote
